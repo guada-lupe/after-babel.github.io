@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# After Babel 
+## A place where linguistic services are provided
 
 You can use the [editor on GitHub](https://github.com/guada-lupe/after-babel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
