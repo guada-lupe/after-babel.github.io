@@ -5,7 +5,13 @@ You can use the [editor on GitHub](https://github.com/guada-lupe/after-babel.git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Fees
+|
+Language Family | Translation | Translation and Proofreading
+----- | ----- | -----
+Indoeuropean| 0,11 dlrs/w | 0,13 dlrs/w 
+Asian | 0,15 dlrs/ch| 0,17 dlrs/ch
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
